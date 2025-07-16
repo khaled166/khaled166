@@ -10,7 +10,8 @@
 🌱 I’m currently learning **RAG, LangChain, and LLM Deployment**  
 💬 Ask me about **Python, Pandas, Scikit-learn, and NLP**  
 📫 Reach me at: **khaled.seif.166@gmail.com**  
-📄 Know more about me [LinkedIn]([https://linkedin.com/in/YOUR-LINK-HERE](https://www.linkedin.com/in/khaled-seifaldin-089a7a1b7/))  
+📄 Know more about me [LinkedIn](https://www.linkedin.com/in/khaled-seifaldin-089a7a1b7/)
+
 
 ---
 
