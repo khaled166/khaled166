@@ -26,7 +26,7 @@
   <a href="https://www.kaggle.com/khaledseif166" target="_blank">
     <img src="https://img.icons8.com/color/48/kaggle.png" alt="Kaggle" width="40" height="40"/>
   </a>
-  <a href="https://linktr.ee/YOUR_LINKTREE" target="_blank">
+  <a href="https://linktr.ee/khaledseif166?utm_source=linktree_profile_share&ltsid=c426ed0b-0b10-44d7-bb54-e8c825dad0aa" target="_blank">
     <img src="https://seeklogo.com/images/L/linktree-logo-168FC9B4C5-seeklogo.com.png" alt="Linktree" width="40" height="40"/>
   </a>
 </p>
