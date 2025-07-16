@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://unsplash.com/photos/geometric-shape-digital-wallpaper-oyXis2kALVg" alt="Machine Learning | Data Analytics | NLP" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Khaled SeifAldin</h1>
 <h3 align="center">Data Analyst | Machine Learning & NLP Engineer | Lifelong Learner</h3>
 
