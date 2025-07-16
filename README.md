@@ -23,7 +23,7 @@
   <a href="https://www.linkedin.com/in/khaled-seifaldin-089a7a1b7/" target="_blank">
     <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="40" height="40"/>
   </a>
-  <a href="https://www.kaggle.com/YOUR_KAGGLE_USERNAME" target="_blank">
+  <a href="https://www.kaggle.com/khaledseif166" target="_blank">
     <img src="https://img.icons8.com/color/48/kaggle.png" alt="Kaggle" width="40" height="40"/>
   </a>
   <a href="https://linktr.ee/YOUR_LINKTREE" target="_blank">
