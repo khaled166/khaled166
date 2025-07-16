@@ -2,14 +2,15 @@
 <h3 align="center">Data Analyst | Machine Learning & NLP Engineer | Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=khaled166&label=Profile%20views&color=0e75b6&style=flat" alt="khaled166" />
+  <img src="https://komarev.com/ghpvc/?username=khaled166&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
 
 ### 🧠 About Me
-🎓 I’m a passionate data analyst and ML/NLP engineer with a strong background in building predictive models, extracting insights from complex datasets, and deploying intelligent systems.  
-🚀 Currently focused on **LLM deployment**, **RAG (Retrieval-Augmented Generation)**, and **LangChain-based AI pipelines**.
+🚀 I'm a passionate Data Analyst and Machine Learning Engineer with a focus on NLP, data storytelling, and intelligent automation.  
+🌱 Currently diving deep into **LLM Deployment**, **LangChain**, and **RAG (Retrieval-Augmented Generation)** pipelines.  
+💬 Ask me about **Python, Pandas, Scikit-learn, Power BI, and NLP**.
 
 ---
 
@@ -17,16 +18,16 @@
 
 <p align="left">
   <a href="mailto:khaled.seif.166@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
+    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" width="40" height="40"/>
   </a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  <a href="https://www.linkedin.com/in/khaled-seifaldin-089a7a1b7/" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="40" height="40"/>
   </a>
-  <a href="https://linktr.ee/YOUR-LINKTREE" target="_blank">
-    <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="linktree" />
+  <a href="https://www.kaggle.com/YOUR_KAGGLE_USERNAME" target="_blank">
+    <img src="https://img.icons8.com/color/48/kaggle.png" alt="Kaggle" width="40" height="40"/>
   </a>
-  <a href="https://www.kaggle.com/YOUR-KAGGLE-ID" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="kaggle" />
+  <a href="https://linktr.ee/YOUR_LINKTREE" target="_blank">
+    <img src="https://seeklogo.com/images/L/linktree-logo-168FC9B4C5-seeklogo.com.png" alt="Linktree" width="40" height="40"/>
   </a>
 </p>
 
@@ -50,18 +51,33 @@
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khaled166&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khaled166&layout=compact&theme=radical)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=khaled166&show_icons=true&theme=radical" alt="GitHub Stats"/>
+</p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaled166&layout=compact&theme=radical" />
+</p>
 
 ---
 
 ### 🏆 GitHub Trophies (Cleaned)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=khaled166&theme=radical&margin-w=10&margin-h=10&no-bg=true&no-frame=true&exclude=Issues,PullRequest,Followers,Reviews)
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=khaled166&theme=radical&no-bg=true&no-frame=true&margin-w=10&margin-h=10&exclude=Issues,PullRequest,Reviews,Followers" alt="GitHub Trophies"/>
+</p>
 
 ---
 
 ### 🔥 GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=khaled166&theme=radical)
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khaled166&theme=radical" alt="GitHub Streak"/>
+</p>
 
+---
+
+### 📌 Pinned Projects
+
+- [Machine-Learning-Full-project](https://github.com/khaled166/Machine-Learning-Full-project)
+- [Zomato-Bangalore-Restaurants](https://github.com/khaled166/Zomato-Bangalore-Restaurants)
+- [Amit-Graduation-project](https://github.com/khaled166/Amit-Graduation-project)
