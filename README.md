@@ -1,5 +1,3 @@
-## Hi there 👋
--->
 **<h1 align="center">Hi 👋, I'm Khaled SeifAldin</h1>
 <h3 align="center">Data Analyst | Machine Learning Engineer | Lifelong Learner</h3>
 
@@ -12,7 +10,7 @@
 🌱 I’m currently learning **RAG, LangChain, and LLM Deployment**  
 💬 Ask me about **Python, Pandas, Scikit-learn, and NLP**  
 📫 Reach me at: **khaled.seif.166@gmail.com**  
-📄 Know more about me [LinkedIn](https://linkedin.com/in/YOUR-LINK-HERE)  
+📄 Know more about me [LinkedIn]([https://linkedin.com/in/YOUR-LINK-HERE](https://www.linkedin.com/in/khaled-seifaldin-089a7a1b7/))  
 
 ---
 
