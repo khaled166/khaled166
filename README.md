@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/11c8652b-2f0d-4de8-be68-db1cb95a6199" />
- alt="Machine Learning | Data Analytics | NLP" width="100%" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Khaled SeifAldin</h1>
 <h3 align="center">Data Analyst | Machine Learning & NLP Engineer | Lifelong Learner</h3>
 
