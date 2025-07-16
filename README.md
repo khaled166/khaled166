@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/91321709/232188097-9f7c050e-19ab-4e7f-a38b-8860fca4c3da.png" alt="Machine Learning | Data Analytics | NLP" width="100%" />
+  <img src="<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/11c8652b-2f0d-4de8-be68-db1cb95a6199" />
+ alt="Machine Learning | Data Analytics | NLP" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Khaled SeifAldin</h1>
