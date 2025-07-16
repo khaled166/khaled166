@@ -1,7 +1,8 @@
-<!-- Banner -->
 <p align="center">
-  <img src="YOUR_IMAGE_URL_HERE" alt="Banner" width="100%" />
+  <img src="https://github.com/user-attachments/assets/8305193d-4d2b-4729-9d3c-84021dcae4ff" alt="Banner" width="100%" />
 </p>
+
+
 
 <h1 align="center">Hi 👋, I'm Khaled SeifAldin</h1>
 <h3 align="center">Data Analyst | Machine Learning & NLP Engineer</h3>
