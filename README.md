@@ -74,6 +74,6 @@
 
 ### 📌 Pinned Projects
 
-- [Machine-Learning-Full-project](https://github.com/khaled166/Machine-Learning-Full-project)
+- [Language-Processor](https://github.com/khaled166/language-processor)
 - [Zomato-Bangalore-Restaurants](https://github.com/khaled166/Zomato-Bangalore-Restaurants)
 - [Amit-Graduation-project](https://github.com/khaled166/Amit-Graduation-project)
