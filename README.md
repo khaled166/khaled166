@@ -1,79 +1,69 @@
-<h1 align="center">Hi 👋, I'm Khaled SeifAldin</h1>
-<h3 align="center">Data Analyst | Machine Learning & NLP Engineer | Lifelong Learner</h3>
+# Hi, I'm Khaled SeifAldin 👋
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=khaled166&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+### Machine Learning Engineer | Data Scientist | NLP & AI Systems
 
----
-
-### 🧠 About Me
-🚀 I'm a passionate Data Analyst and Machine Learning Engineer with a focus on NLP, data storytelling, and intelligent automation.  
-🌱 Currently diving deep into **LLM Deployment**, **LangChain**, and **RAG (Retrieval-Augmented Generation)** pipelines.  
-💬 Ask me about **Python, Pandas, Scikit-learn, Power BI, and NLP**.
+I build predictive models, NLP pipelines, and production-grade AI systems that turn large, messy datasets into decisions people act on. Currently focused on LLM-based agents, RAG pipelines, and applied deep learning.
 
 ---
 
-### 🌐 Connect with Me
+## 🧠 About Me
 
-<p align="left">
-  <a href="mailto:khaled.seif.166@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" width="40" height="40"/>
-  </a>
-  <a href="https://www.linkedin.com/in/khaled-seifaldin-089a7a1b7/" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="40" height="40"/>
-  </a>
-  <a href="https://www.kaggle.com/khaledseif166" target="_blank">
-    <img src="https://www.kaggle.com/static/images/logos/kaggle-logo-transparent-300.png" alt="Kaggle" width="40" height="40"/>
-  </a>
-  <a href="https://linktr.ee/khaledseif166?utm_source=linktree_profile_share&ltsid=c426ed0b-0b10-44d7-bb54-e8c825dad0aa" target="_blank">
-    <img src="https://pureoxygenlabs.com/wp-content/uploads/2023/11/linktreelogo.png" alt="Linktree" width="40" height="40"/>
-  </a>
-</p>
+- 🔭 Currently building **PatchrightPV** — a production-scale AI validation system processing 100,000+ electronic component records
+- 🌱 Deepening my skills in **LLM deployment, RAG pipelines, and agentic AI systems**
+- 📊 Background in data analysis and BI (SQL, Power BI), now focused on machine learning and AI engineering
+- 💬 Ask me about **Python, scikit-learn, TensorFlow/PyTorch, Hugging Face NLP, and LLM APIs**
 
 ---
 
-### 🧰 Languages & Tools
+## 🚀 Featured Projects
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-  <img src="https://img.icons8.com/color/48/power-bi.png" height="40" alt="Power BI"/>
-</p>
+**[PatchrightPV](https://github.com/khaled166/PatchrightPV)**
+Production-grade system validating part numbers, kit configurations, and lifecycle statuses for 100,000+ electronic components — deterministic match engine, LLM-based reasoning layer (AWS Bedrock), and adaptive fetch strategy for bot-protected sites.
+`Python` `FastAPI` `AWS Bedrock` `selectolax`
 
----
+**[language-processor](https://github.com/khaled166/language-processor)**
+FastAPI application that detects the source language of input text and translates non-English text to English, using FastText for language detection.
+`Python` `FastAPI` `FastText` `NLP`
 
-### 📊 GitHub Stats
+**[Telco-Customer-Churn](https://github.com/khaled166/Telco-Customer-Churn)**
+Predicts customer churn from telecom subscriber data — feature engineering, model comparison, and evaluation against precision/recall tradeoffs relevant to retention campaigns.
+`Python` `scikit-learn` `Pandas`
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=khaled166&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaled166&layout=compact&theme=radical" />
-</p>
+**[Loan_Status](https://github.com/khaled166/Loan_Status)**
+Classification model predicting loan approval outcomes from applicant financial data, with an emphasis on handling missing values and categorical feature encoding.
+`Python` `scikit-learn`
 
----
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+*(See [all repositories](https://github.com/khaled166?tab=repositories) for more.)*
 
 ---
 
-### 🔥 GitHub Streak
+## 🧰 Languages & Tools
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khaled166&theme=radical" alt="GitHub Streak"/>
-</p>
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
-### 📌 Pinned Projects
+## 📊 GitHub Stats
 
-- [Language-Processor](https://github.com/khaled166/language-processor)
-- [Zomato-Bangalore-Restaurants](https://github.com/khaled166/Zomato-Bangalore-Restaurants)
-- [Amit-Graduation-project](https://github.com/khaled166/Amit-Graduation-project)
+![Khaled's GitHub stats](https://github-readme-stats.vercel.app/api?username=khaled166&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khaled166&layout=compact&theme=radical&hide_border=true)
+
+---
+
+## 🌐 Connect with Me
+
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:khaled.seif.166@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khaled-seifaldin-089a7a1b7/)
+[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/khaledseif166)
+[![Linktree](https://img.shields.io/badge/-Linktree-43E55E?style=flat&logo=linktree&logoColor=white)](https://linktr.ee/khaledseif166)
