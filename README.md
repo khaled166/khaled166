@@ -1,17 +1,20 @@
-# Hi, I'm Khaled SeifAldin 👋
+<div align="center">
 
+# Hi, I'm Khaled SeifAldin 👋
 ### Machine Learning Engineer | Data Scientist | NLP & AI Systems
 
 I build predictive models, NLP pipelines, and production-grade AI systems that turn large, messy datasets into decisions people act on. Currently focused on LLM-based agents, RAG pipelines, and applied deep learning.
+
+</div>
 
 ---
 
 ## 🧠 About Me
 
-- 🔭 Currently building **PatchrightPV** — a production-scale AI validation system processing 100,000+ electronic component records
-- 🌱 Deepening my skills in **LLM deployment, RAG pipelines, and agentic AI systems**
-- 📊 Background in data analysis and BI (SQL, Power BI), now focused on machine learning and AI engineering
-- 💬 Ask me about **Python, scikit-learn, TensorFlow/PyTorch, Hugging Face NLP, and LLM APIs**
+- 💼 Data Scientist with 5+ years of experience spanning reporting, data analysis, and automation, through to building traditional machine learning models and advanced AI & LLM solutions — alongside customer deliveries and lifecycle status updates for electronic components.
+- 🚀 Designed and built **PatchrightPV**, a production-scale AI validation system combining deterministic matching and LLM-based reasoning across 100,000+ electronic component records
+- 🧩 Delivered NLP pipelines (Hugging Face) for multilingual document summarization and translation, and ML models for classification and forecasting used in business decision-making
+- 🌱 Currently expanding into LLM deployment, RAG pipelines, and agentic AI systems
 
 ---
 
@@ -50,14 +53,6 @@ Classification model predicting loan approval outcomes from applicant financial 
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-![Khaled's GitHub stats](https://github-readme-stats.vercel.app/api?username=khaled166&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khaled166&layout=compact&theme=radical&hide_border=true)
 
 ---
 
